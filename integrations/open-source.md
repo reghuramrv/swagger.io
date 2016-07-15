@@ -52,6 +52,7 @@ Name | Description
 Name | Description
 ---|---
 [assertj-swagger](https://github.com/RobWin/assertj-swagger) | assertj-swagger is a library which compares a design-first Swagger YAML with an implementation-first Swagger JSON output (e.g. from springfox). assertj-swagger allows to validate that the implementation in compliance with the design specification.
+[binder-swagger-java](https://github.com/tminglei/binder-swagger-java) | binder-swagger-java was designed to help construct the swagger object, corresponding to swagger.json, and let it accessible from swagger ui or other http visitors.
 [dropwizard-swagger](https://github.com/federecio/dropwizard-swagger) | A dropwizard bundle that wraps Swagger-Core.
 [restlet-framework](http://restlet.com/technical-resources/restlet-framework/guide/2.3/extensions/swagger) | Restlet Framework extension that supports auto-generation of Swagger 2.0 from Restlet API and JAX-API applications
 [springfox](https://springfox.github.io/springfox) | Integrates with Spring MVC with support for Swagger 1.2 and Swagger 2.0 spec.
@@ -72,12 +73,15 @@ Name | Description
 ---|---
 [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) |  Adds some Swagger to your WebApi.
 [AutoRest](https://github.com/Azure/AutoRest) | The AutoRest tool generates client libraries for accessing RESTful web services from a Swagger specification.
+[SwaggerProvider](http://sergey-tihon.github.io/SwaggerProvider/) | F# Type Provider for Swagger
+[NSwag](http://nswag.org) | Toolchain to generate Swagger specifications from Web API controllers and client code to access them via C# and TypeScript.
 
 #### Node.js
 
 Name | Description
 ---|---
 [hapi-swaggered](https://github.com/z0mt3c/hapi-swaggered) | A hapi.js plugin to generate swagger v2.0 compliant specifications based on hapi routes and joi schemas.
+[hippie-swagger](https://github.com/cachecontrol/hippie-swagger) | API testing tool with automatic swagger assertions
 [swaggerize-express](https://github.com/krakenjs/swaggerize-express) | Design-driven RESTful apis with swagger and express from [@PayPalDev](https://twitter.com/PayPalDev).
 [swaggerize-hapi](https://github.com/krakenjs/swaggerize-hapi) | Design-driven RESTful apis with swagger and hapi from [@PayPalDev](https://twitter.com/PayPalDev).
 [generator-swaggerize](https://github.com/krakenjs/generator-swaggerize) | Yeoman generator for krakenjs/swaggerize tools from [@PayPalDev](https://twitter.com/PayPalDev).
@@ -146,6 +150,7 @@ Name | Description
 [bootprint-swagger](https://github.com/nknapp/bootprint-swagger) | A tool for creating static documentation from Swagger definitions, with customizable styles and templates using [Handlebars](http://handlebarsjs.com), [LessCss](http://lesscss.org) and [Bootstrap](http://getbootstrap.com).
 [swagger-diff](https://github.com/civisanalytics/swagger-diff) | A command-line utility, RSpec matcher, and Ruby library for comparing two Swagger specifications.
 [swagger.ed](https://github.com/chefArchitect/apispots-browser-swaggered) | A Chrome extenstion that will change the way you look at APIs.
+[ember-swagger-ui](https://github.com/rynam0/ember-swagger-ui) | An [ember-cli](http://www.ember-cli.com) addon for quickly and easily adding [swagger-ui](https://github.com/swagger-api/swagger-ui) to your [EmberJS](http://emberjs.com/) application.
 
 ### Tools for previous Swagger versions
 
